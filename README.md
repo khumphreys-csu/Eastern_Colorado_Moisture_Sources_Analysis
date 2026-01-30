@@ -15,16 +15,24 @@ This repository holds all of the code needed to reporduce all figures in the man
 
 - *figure3_4_moisture_sources_map_barchart.ipynb*: Python notebook that summarizes the moisture sources of Eastern Colorado regions into a map and barcharts. Output from this notebook reporduces figures 3 and 4 in the associated manuscript.
 
-- *figure5_percent_of_average.ipynb*:
+- *figure5_percent_of_average.ipynb*: Python notebook that visualizes each source region's percent of average contribution in 2023 as a barchart. Output from this notebook reporduces figure 5 in the associated manuscript.
 
-- *figure6_elbow_method.ipynb*:
+- *figure6_elbow_method.ipynb*: Python notebook comparing k-means clustering performance across different k values using within-cluster sum of squared distances (WCSS) and the elbow method. Output from this notebook reporduces figure 6 in the associated manuscript.
 
-- *figure7_clustering_analysis.ipynb*:
+- *figure7_clustering_analysis.ipynb*: Python notebook conducting a k-means clustering analysis on Eastern Colorado's moisture sources and visualizes results in maps and scatter plots. Output from this notebook reporduces figure 7 in the associated manuscript.
 
-- *figure8_variance_explained.ipynb*:
+- *figure8_variance_explained.ipynb*: Python notebook that visualizes the fraction of variance explained by each eigenvector from the EOF analysis conducted in the eof_analysis.py script. Output from this notebook reporduces figure 8 in the associated manuscript.
 
-- *figure9_10_visualize_eof_analysis.ipynb*:
+- *figure9_10_visualize_eof_analysis.ipynb*: Python notebook that reads output from eof_analysis.py and visualizes the first and second principle components and eigen vectors as a map and a timeseries. Output from this notebook reporduces figures 9 and 10 in the associated manuscript.
 
-- *figureA.1.1_era5_prism_comp_scatter.ipynb*:
+- *figureA.1.1_era5_prism_comp_scatter.ipynb*: 
 
-- *figureA.2.2_map_of_region_classification.ipynb*:
+- *figureA.1.2_A.1.3_era5_prism_rainfall_map_comparison.ipynb*:
+
+- *figureA.2.1_sink_region_maps.ipynb*: Python notebook that produces a map of Colorado’s alternate climate divisions adapted to a 0.25°x0.25° latitude longitude grid (as described in Schumacher et al., 2024).
+
+- *figureA.2.2_map_of_region_classification.ipynb*: 
+
+- *figureA.3_sensitivity_analysis.ipynb*:
+
+- *tables_1-4_code.ipynb*:
