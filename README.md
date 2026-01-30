@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1027361606.svg)](https://doi.org/10.5281/zenodo.16510842)
 # Code for "Evaporative Moisture Sources of Colorado’s Front Range: A Case Study of the Exceptionally Wet May-July Season of 2023"
 
 ## Brief Summary
