@@ -29,10 +29,10 @@ This repository holds all of the code needed to reporduce all figures in the man
 
 - *figureA.1.2_A.1.3_era5_prism_rainfall_map_comparison.ipynb*: Python notebook that compares the spatial differences in monthly rainfall estimates between ERA5 and PRISM precipitation products. Output from this notebook reproduces figures A.1.2 and A.1.3 in the appendix of the associated manuscript.
 
-- *figureA.2.1_sink_region_maps.ipynb*: Python notebook that produces a map of Colorado’s alternate climate divisions adapted to a 0.25°x0.25° latitude longitude grid (as described in Schumacher et al., 2024).
+- *figureA.2.1_sink_region_maps.ipynb*: Python notebook producing a map of Colorado’s alternate climate divisions adapted to a 0.25°x0.25° latitude longitude grid (as described in Schumacher et al., 2024). Output from this notebook reproduces figure A.2.1 in the appendix of the associated manuscript.
 
-- *figureA.2.2_map_of_region_classification.ipynb*: 
+- *figureA.2.2_map_of_region_classification.ipynb*: Python notebook producing a map that characterizes the geographical definitions of each source region in this manuscript. Output from this notebook reproduces figure A.2.2 in the appendix of the associated manuscript.
 
-- *figureA.3_sensitivity_analysis.ipynb*:
+- *figureA.3_sensitivity_analysis.ipynb*: Python notebook displaying the difference in moisture tracked when using a global domain vs a northern hemisphere focused domain. Output from this notebook reproduces figure A.3 in the appendix of the associated manuscript.
 
-- *tables_1-4_code.ipynb*:
+- *tables_1-4_code.ipynb*: Python notebook generating and organizing the values used in tables 1-4 of this associated manuscript.
